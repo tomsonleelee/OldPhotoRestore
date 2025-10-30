@@ -1,0 +1,5 @@
+{
+  "name": "AI舊照片修復",
+  "description": "Upload an image and use text prompts to edit, enhance, or completely transform it. Restore old photos to high definition, enhance features with AI, or apply creative filters using Gemini.",
+  "requestFramePermissions": []
+}
